@@ -32,9 +32,8 @@ public class Notification {
     private String message;
 
     @NonNull
-    private NotificationUrgency urgency;
-
-    @NonNull
     private NotificationAction action;
 
+    @NonNull
+    private NotificationUrgency urgency;
 }
