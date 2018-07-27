@@ -1,5 +1,5 @@
 # portal-notifications-model
-![Travis CI build](https://travis-ci.org/stainii/portal-notifications-model.svg?branch=master)
+[![Build Status](http://portal-ci.westeurope.cloudapp.azure.com/buildStatus/icon?job=portal-notifications-model/master)](http://portal-ci.westeurope.cloudapp.azure.com/job/portal-notifications-model/job/master/)
 
 Model for the notifications app and the *notification-plugins*.
 
