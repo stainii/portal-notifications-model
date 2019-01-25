@@ -1,5 +1,5 @@
 # portal-notifications-model
-[![Build Status](http://portal-ci.westeurope.cloudapp.azure.com/buildStatus/icon?job=portal-notifications-model/master)](http://portal-ci.westeurope.cloudapp.azure.com/job/portal-notifications-model/job/master/)
+[![Build Status](https://server.stijnhooft.be/jenkins/buildStatus/icon?job=portal-notifications-model/master)](https://server.stijnhooft.be/jenkins/job/portal-notifications-model/job/master/)
 
 Model for the notifications app and the *notification-plugins*.
 
