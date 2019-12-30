@@ -20,7 +20,7 @@ public class Notification {
     private String origin;
 
     /**
-     * Date and that the notification has been pushed
+     * Date and that the notification needs to be shown
      **/
     @NonNull
     private LocalDateTime date;
@@ -35,5 +35,5 @@ public class Notification {
     private NotificationAction action;
 
     @NonNull
-    private NotificationUrgency urgency;
+    private PublishStrategy publishStrategy;
 }
