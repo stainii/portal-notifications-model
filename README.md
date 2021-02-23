@@ -27,11 +27,11 @@ Therefore, make sure you have the following config in your Maven `settings.xml`;
 
 ````$xml
 <servers>
-		<server>
-			<id>portal-nexus-releases</id>
-			<username>your_username</username>
-            <password>*************</password>
-		</server>
-	</servers>
+    <server>
+        <id>portal-nexus-releases</id>
+        <username>your_username</username>
+        <password>*************</password>
+    </server>
+</servers>
 ````
 * portal-nexus-releases points to my personal Nexus (see `<distributionManagement>` in the project's `pom.xml`)
